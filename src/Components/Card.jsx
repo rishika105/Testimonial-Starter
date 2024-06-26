@@ -11,7 +11,7 @@ const Card = (props) => {
 <div className="absolute top-[-7rem] z-[10] mx-auto">
     <img 
     className="aspect-square rounded-full w-[140px] h-[140px] z-[10]"
-    src= {review.image}></img>
+    src= {review.image} alt= "review-image"></img>
     <div className="w-[140px] h-[140px] bg-violet-500 rounded-full absolute top-[-6px] left-[10px] -z-[10]"></div>
 </div>
 
