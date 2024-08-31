@@ -44,3 +44,6 @@ This will start the app in development mode. Open [http://localhost:3000](http:/
 
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: For styling the components.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/0579c434-a7ab-4cc3-8db8-9294632341a5)
